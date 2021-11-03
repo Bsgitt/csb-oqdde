@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://bsgitt.github.io/csb-oqdde/static/js/main.3b1d925f.chunk.js",
+    "main.js.map": "https://bsgitt.github.io/csb-oqdde/static/js/main.3b1d925f.chunk.js.map",
+    "runtime-main.js": "https://bsgitt.github.io/csb-oqdde/static/js/runtime-main.62c5b18f.js",
+    "runtime-main.js.map": "https://bsgitt.github.io/csb-oqdde/static/js/runtime-main.62c5b18f.js.map",
+    "static/js/2.b42a1a24.chunk.js": "https://bsgitt.github.io/csb-oqdde/static/js/2.b42a1a24.chunk.js",
+    "static/js/2.b42a1a24.chunk.js.map": "https://bsgitt.github.io/csb-oqdde/static/js/2.b42a1a24.chunk.js.map",
+    "index.html": "https://bsgitt.github.io/csb-oqdde/index.html",
+    "static/js/2.b42a1a24.chunk.js.LICENSE.txt": "https://bsgitt.github.io/csb-oqdde/static/js/2.b42a1a24.chunk.js.LICENSE.txt",
+    "static/media/usrs.18d38899.jpg": "https://bsgitt.github.io/csb-oqdde/static/media/usrs.18d38899.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62c5b18f.js",
+    "static/js/2.b42a1a24.chunk.js",
+    "static/js/main.3b1d925f.chunk.js"
+  ]
+}
